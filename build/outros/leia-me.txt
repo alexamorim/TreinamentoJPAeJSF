@@ -1,0 +1,5 @@
+Lista Automoveis 
+
+http://localhost:8080/JPAeJSF/cadastrarAutomoveis.xhtml
+
+http://localhost:8080/JPAeJSF/listaAutomoveis.xhtml
